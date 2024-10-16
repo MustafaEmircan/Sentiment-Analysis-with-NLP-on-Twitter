@@ -1,4 +1,4 @@
-# 🚀 Twitter Sentiment Analysis Bot: Real-Time Emotion Detection with NLP 🚀
+# 🚀 Twitter Sentiment Analysis Bot: Emotion Detection with NLP 🚀
 
 The Twitter Sentiment Analysis Bot is a project that analyzes the emotional expressions of social media users. This bot classifies Turkish tweets as positive, negative, or neutral, providing striking insights into users' emotional states. 🎉
 
